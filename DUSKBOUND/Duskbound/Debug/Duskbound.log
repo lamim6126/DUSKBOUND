@@ -1,0 +1,52 @@
+﻿Build started 14-Apr-26 10:38:01 PM.
+     1>Project "C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Duskbound\Duskbound.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt bosses\BossCutscene1.cpp bosses\BossCutscene2.cpp bosses\BossCutscene3.cpp bosses\BossFightScene1.cpp bosses\BossFightScene2.cpp bosses\BossFightScene3.cpp core\Engine.cpp core\Input.cpp entities\NPC.cpp entities\Player.cpp entities\PlayerBossFightController.cpp iMain.cpp scenes\GameOverScene.cpp scenes\MainMenuScene.cpp scenes\MenuScene.cpp scenes\PauseScene.cpp scenes\PlayScene.cpp systems\CollisionMap.cpp systems\CutsceneScene.cpp systems\Powerups.cpp
+         Powerups.cpp
+         CutsceneScene.cpp
+         CollisionMap.cpp
+         PlayScene.cpp
+         PauseScene.cpp
+         MenuScene.cpp
+         MainMenuScene.cpp
+         GameOverScene.cpp
+         iMain.cpp
+         PlayerBossFightController.cpp
+         Player.cpp
+         NPC.cpp
+         Input.cpp
+         Engine.cpp
+         BossFightScene3.cpp
+         BossFightScene2.cpp
+         BossFightScene1.cpp
+         BossCutscene3.cpp
+         BossCutscene2.cpp
+         BossCutscene1.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Debug\Duskbound.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Duskbound\vendor\ opengl32.lib glu32.lib glut32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Debug\Duskbound.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Debug\Duskbound.lib" /MACHINE:X86 Debug\BossCutscene1.obj
+         Debug\BossCutscene2.obj
+         Debug\BossCutscene3.obj
+         Debug\BossFightScene1.obj
+         Debug\BossFightScene2.obj
+         Debug\BossFightScene3.obj
+         Debug\Engine.obj
+         Debug\Input.obj
+         Debug\NPC.obj
+         Debug\Player.obj
+         Debug\PlayerBossFightController.obj
+         Debug\iMain.obj
+         Debug\GameOverScene.obj
+         Debug\MainMenuScene.obj
+         Debug\MenuScene.obj
+         Debug\PauseScene.obj
+         Debug\PlayScene.obj
+         Debug\CollisionMap.obj
+         Debug\CutsceneScene.obj
+         Debug\Powerups.obj
+         Duskbound.vcxproj -> C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Debug\Duskbound.exe
+     1>Done Building Project "C:\Users\Raiyan\DUSKBOUND\DUSKBOUND\Duskbound\Duskbound.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.82
